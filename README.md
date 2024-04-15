@@ -1,4 +1,4 @@
-# Calculadora JavaScript
+# Site Sealabrate
 ![Static Badge](https://img.shields.io/badge/license-MIT-green)
 ![GitHub Org's stars](https://img.shields.io/github/stars/V131R4?style=social)
 

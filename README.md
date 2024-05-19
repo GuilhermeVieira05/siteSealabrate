@@ -4,7 +4,7 @@
 
 # Sobre o Projeto
 
-Site foi um site criado apenas com HTML e CSS.
+Site criado apenas com HTML e CSS.
 
 ![image](https://github.com/V131R4/siteSealabrate/assets/104731949/7402a964-a0ba-4c57-b6c0-a8b2539dfc57)
 
